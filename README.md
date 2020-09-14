@@ -1,3 +1,3 @@
 # Repo_GitYoutube
 
-Trabando con GitHub
+Trabajando con GitHub
